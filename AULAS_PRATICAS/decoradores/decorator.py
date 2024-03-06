@@ -1,0 +1,2 @@
+@decorator_imprimir
+    
